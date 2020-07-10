@@ -68,17 +68,3 @@ h2 {
 }
 
 /* Your code starts here! */
-
-body {
-	line-height: 1.5;
-}
-
-.container {
-	width: 1200px;
-	margin: 0 auto;
-}
-
-.nav-section .header-nav a {
-  text-decoration: none;
-  border-color: red;
-}
